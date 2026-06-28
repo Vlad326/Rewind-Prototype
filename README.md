@@ -64,8 +64,8 @@ AI tools were used as a coding assistant - for generating boilerplate code, sugg
 ## Screenshots
 | Prologue | Kitchen |
 |----------|---------|
-| <img src="screenshots/Prologue.png" width="500"> | <img src="screenshots/Kitchen.png" width="500"> |
+| <img src="!screenshots/Prologue.png" width="500"> | <img src="!screenshots/Kitchen.png" width="500"> |
 
 | Hallway | River |
 |---------|-------|
-| <img src="screenshots/Hallway.png" width="500"> | <img src="screenshots/River.png" width="500"> |
+| <img src="!screenshots/Hallway.png" width="500"> | <img src="!screenshots/River.png" width="500"> |
