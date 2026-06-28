@@ -16,8 +16,8 @@ pkg_check_modules(BULLET REQUIRED bullet)
 
 include_directories(
     include
-    third_party/dr_wav    # <-- Добавлено
-    third_party/stb       # <-- Добавлено
+    third_party/dr_wav
+    third_party/stb
     third_party/json
     ${ASSIMP_INCLUDE_DIRS}
     ${GLFW_INCLUDE_DIRS}
