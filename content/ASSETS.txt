@@ -1,0 +1,6 @@
+This folder is intentionally empty.
+
+All game assets (3D models, textures, audio, and other content) are not included in this repository due to licensing and size constraints.
+
+You can download the full game (including all assets and executable) from the Releases section:
+https://github.com/Vlad326/Rewind-Prototype/releases
