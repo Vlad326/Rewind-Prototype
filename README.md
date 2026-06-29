@@ -57,6 +57,14 @@ Game design, engine, code, lighting, scene layout, and modifications - made by m
 **Note on AI use:**
 AI tools were used as a coding assistant - for generating boilerplate code, suggesting solutions, and speeding up development. All final decisions, architecture, integration, and debugging were done manually by me.
 
+## Asset License
+
+All original assets (3D models, textures, audio, and other content created by me) are **All Rights Reserved**.
+
+They may not be copied, modified, redistributed, or used in any project without explicit permission from the author.
+
+Third-party assets used in this project are credited above and are subject to their original licenses.
+
 ## Links
 - [Play on Itch.io](https://vlad03.itch.io/rewind)
 - [Download full game (Releases)](https://github.com/Vlad326/Rewind-Prototype/releases)
